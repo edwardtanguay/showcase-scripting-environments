@@ -7,7 +7,8 @@
     "ruby": "cd ruby && ruby main.rb",
     "bash": "cd bash && bash main.sh",
     "elixir": "cd elixir && elixir main.ex",
-    "php": "cd php && php main.php"
+    "php": "cd php && php main.php",
+    "rust-cp": "cd rust/create-page && cargo run --quiet"
   },
   "keywords": [],
   "author": "",
