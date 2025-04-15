@@ -10,7 +10,7 @@
     "php": "cd php && php main.php",
     "rust-cp": "cd rust/create-page && cargo run --quiet",
     "rust-pd": "cd rust/parse-data && cargo run --quiet",
-    "kotlin": "cd kotlin && kotlinc main.kt -include-runtime -d main.jar && java -jar main.jar"
+    "kotlin": "cd kotlin && kotlinc main.kts"
   },
   "keywords": [],
   "author": "",
