@@ -1,0 +1,1 @@
+/home/edward/projects/showcase-scripting-environments/rust/parse-data/target/debug/parse-data: /home/edward/projects/showcase-scripting-environments/rust/parse-data/src/main.rs /home/edward/projects/showcase-scripting-environments/rust/parse-data/src/math.rs
