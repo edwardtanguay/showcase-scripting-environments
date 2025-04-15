@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "ruby": "cd ruby && ruby main.rb",
-    "bash": "cd bash && bash main.sh"
+    "bash": "cd bash && bash main.sh",
+    "elixir": "cd elixir && elixir main.ex"
   },
   "keywords": [],
   "author": "",
