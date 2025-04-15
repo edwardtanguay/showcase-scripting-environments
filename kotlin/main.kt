@@ -1,7 +1,7 @@
-import utils.math
+// import utils.math
 
 fun main() {
-    val result = add(5, 3)
+    // val result = add(5, 3)
     println("Kotlin is running")
-    println("The result of addition is: $result")
+    // println("The result of addition is: $result")
 }
