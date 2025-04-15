@@ -1,0 +1,12 @@
+{
+  "name": "test-ruby-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ruby": "cd ruby && ruby main.rb"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
