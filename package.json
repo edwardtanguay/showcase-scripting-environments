@@ -10,7 +10,7 @@
     "php": "cd php && php main.php",
     "rust-cp": "cd rust/create-page && cargo run --quiet",
     "rust-pd": "cd rust/parse-data && cargo run --quiet",
-    "haskell": "cd haskell && runhaskell -w main.hs"
+    "haskell": "cd haskell && runhaskell -w Main.hs"
   },
   "keywords": [],
   "author": "",
