@@ -1,4 +1,4 @@
-module MathFunctions (add, multiply) where
+module Math (add, multiply) where
 
 add :: Int -> Int -> Int
 add x y = x + y
